@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fundo musgo arredondado (estilo iOS) -->
+  <rect width="512" height="512" rx="115" fill="#2d4424"/>
+  <!-- Anel sutil interno -->
+  <circle cx="256" cy="256" r="186" fill="none" stroke="#4a6b3c" stroke-width="3" opacity="0.4"/>
+  <!-- Letra S itálica em Fraunces (desenhada como caminho para não depender de fonte) -->
+  <text x="256" y="338"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic"
+        font-weight="500"
+        font-size="280"
+        fill="#faf7f0"
+        letter-spacing="-8">S</text>
+</svg>
