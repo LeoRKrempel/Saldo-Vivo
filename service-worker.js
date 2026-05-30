@@ -2,7 +2,7 @@
 // Estratégia: cache-first com fallback para rede.
 // Quando uma nova versão é detectada (CACHE_VERSION muda), o cache antigo é apagado.
 
-const CACHE_VERSION = 'saldo-vivo-v2';
+const CACHE_VERSION = 'saldo-vivo-v4';
 const CORE_FILES = [
   './',
   './index.html',
